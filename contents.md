@@ -36,7 +36,7 @@
         <br>
         Chief Engineer & Scientist
         <br>
-        <a style="color: cyan" href="http://e-x.io">Exponential ML</a>
+        <a style="color: cyan" href="http://e-x.io">Exponential</a>
         <br>
         <br>
         AI Fellow / Member
