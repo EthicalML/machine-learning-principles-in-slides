@@ -72,15 +72,6 @@
 
 
 [NEXT]
-<!-- .slide: data-background="images/network-background.jpg" class="background" -->
-### ML Principles Website
-https://bit.ly/ml-principles
-
-### ML Principles Repository
-http://bit.ly/ml-principles-repo
-
-
-[NEXT]
 <!-- .slide: data-background="images/particles.gif" class="background smallquote" -->
 
 # #LetsDoThis
@@ -284,6 +275,17 @@ In charge of productionisation of models, data pipelines & products
     * For industries to raise the bar<br><br>
 * **Phase 4 - Responsible ML by regulation**
     * For economies to thrive
+
+
+[NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+# Phase 1
+## Our 3 core streams
+
+* The 8 Machine Learning Principles
+* Open source contributions (i.e. MLOps List)
+* The Ethical ML Network of technologists
+
 
 
 [NEXT]
@@ -541,8 +543,8 @@ Applying this thinking into your actual projects
 
 
 [NEXT SECTION]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallest" style="color: white" -->
-# Wrapping up
+<!-- .slide: data-background="images/network-background.jpg" class="background smallquote" -->
+# 3. Wrapping up
 
 
 [NEXT]
@@ -559,58 +561,15 @@ Applying this thinking into your actual projects
 > 
 > Next steps!
 
-
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
-### ML Principles Website
-https://bit.ly/ml-principles
+## The ML Principles
+ethical.institute/principles.html
 
-### ML Principles Repository
-http://bit.ly/ml-principles-repo
+## Awesome MLOps List
+bit.ly/awesome-mlops
 
-
-[NEXT]
-<!-- .slide: data-background="images/network-background.jpg" class="background" -->
-<h2>The Institute for Ethical AI & ML</h2>
-<h4>A practical framework for Responsible ML</h4>
-
-<table class="bio-table">
-  <tr>
-    <td style="float: left">
-        ![portrait](images/alejandro.jpg)
-        <br>
-        <font style="font-weight: bold; color: white">Alejandro Saucedo</font>
-        <br>
-        <br>
-    </td>
-    <td style="float: left; color: white; font-size: 0.7em;">
-
-        <br>
-        Chairman
-        <br>
-        <a style="color: cyan" href="http://ethical.institute">The Institute for Ethical AI & ML</a>
-        <br>
-        <br>
-        Chief Engineer & Scientist
-        <br>
-        <a style="color: cyan" href="http://e-x.io">Exponential ML</a>
-        <br>
-        <br>
-        AI Fellow / Member
-        <br>
-        <a style="color: cyan" href="#">The RSA & EU AI Alliance</a>
-        <br>
-        <br>
-        Advisor
-        <br>
-        <a style="color: cyan" href="http://teensinai.com">TeensInAI.com initiative</a>
-        <br>
-        <br>
-        
-    </td>
-  </tr>
-  <tr>
-  </tr>
-</table>
+# Thank you
+Questions? a@ethical.institute
 
 
