@@ -103,8 +103,8 @@ Traditional data science generalised in two workflows
 [NEXT]
 <!-- .slide: data-background="images/parti.png" class="background smallquote" style="color: white" -->
 
-If we have a small team of data scientists...
-## We face a smaller number of issues
+If we have a small team or a small/simple project...
+## We can cope with the issues
 
 [NEXT]
 <!-- .slide: data-background="images/parti.png" class="background smallquote" style="color: white" -->
@@ -230,15 +230,18 @@ In charge of productionisation of models, data pipelines & products
 
 [NEXT]
 <!-- .slide: data-background="images/parti.png" class="background smallquote" style="color: white" -->
+
+## EuroSciPy Talk 2018
 <h1 style="color: white !important"><font style="color:#00ffda">ML</font>Ops / <font style="color:#00ffda">Data</font>Ops</h1>
 <h4>a curated list of frameworks to scale<br> your <font style="color:#00ffda">machine learning</font> capabilities<br></h4>
 <p>
   <br />
-  <a style="color:#00ffda" href="">bit.ly/awesome-mlops</a>
+  <a style="color:#00ffda" href="http://bit.ly/awesome-mlops">bit.ly/awesome-mlops</a>
   <br />
   <br />
 </p>
 <p>
+
 
 
 [NEXT SECTION]
@@ -261,27 +264,26 @@ In charge of productionisation of models, data pipelines & products
 | | | |
 | - | - | - |
 | | Conscious | Unconscious | 
-| Moral | ✅ | ❌ |
-| Immoral | ❌ | ❌ |
+| Moral | 🤩| 🤨 |
+| Immoral | 👹| 🤪 |
 | | | |
 
-
 <br>
-
-### We want to be <font color="#00ffda">conscious</font> and <font color="#00ffda">ethical</font>
+<h3><font style="color:#00ffda">Moral</font> === <font style="color:#00ffda">Wants</font> to do good</h3>
+<h3><font style="color:#00ffda">Conscious</font> === <font style="color:#00ffda">Knows</font> how to</h3>
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 ## IEML phased rollout plan
 * **Phase 1 - Responsible ML by pledge**
-    * Commit as a technology leader<br><br>
+    * For technologists to implement<br><br>
 * **Phase 2 - Responsible ML by process**
-    * Implement the internal processes to your workplace<br><br>
+    * For technology leaders to introduce<br><br>
 * **Phase 3 - Responsible ML by certification**
-    * Obtain the certifications required<br><br>
+    * For industries to raise the bar<br><br>
 * **Phase 4 - Responsible ML by regulation**
-    * Implement policy based on case-studies
+    * For economies to thrive
 
 
 [NEXT]
