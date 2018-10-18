@@ -244,7 +244,7 @@ In charge of productionisation of models, data pipelines & products
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 #### The Institute for Ethical AI & ML
-<iframe style="height: 50vh; width: 100vw" src="http://ethical.institute"></iframe>
+![classification_large](images/institute.png)
 #### <a href="http://ethical.institute">http://ethical.institute</a>
 
 
@@ -533,8 +533,8 @@ are taken into consideration
 
 ## Join the Ethical ML Network
 
-<iframe style="height: 50vh; width: 100vw" src="http://ethical.institute"></iframe>
-####  <a href="http://ethical.institute">ethical.institute</a>
+![classification_large](images/network.png)
+####  <a href="http://ethical.institute#network">ethical.institute#network</a>
 
 
 [NEXT]
