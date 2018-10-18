@@ -297,6 +297,14 @@ In charge of productionisation of models, data pipelines & products
 
 
 
+<style>
+.fragment.visible.fade-out.current-fragment {
+    display: none !important;
+    height:0px;
+    line-height: 0px;
+    font-size: 0px;
+}
+</style>
 
 
 [NEXT]
@@ -320,14 +328,14 @@ where reasonable
 <div class="right-col">
 
 ![line](images/robotfall.gif)
-<!-- .element: class="fragment fade-out" -->
+<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
 
 <ul>
     <li>Sentence prediction</li>
     <li>Fraud detection</li>
     <li>Temporary augmentation</li>
 </ul>
-<!-- .element: class="fragment fade-in" -->
+<!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 </div>
 
 
@@ -348,14 +356,14 @@ bias and implications
 <div class="right-col">
 
 ![line](images/duck.gif)
-<!-- .element: class="fragment fade-out" -->
+<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
 
 <ul>
     <li>Data bias</li>
     <li>Feature importance</li>
     <li>Equity vs Equality</li>
 </ul>
-<!-- .element: class="fragment fade-in" -->
+<!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 </div>
 
 [NEXT]
@@ -374,14 +382,14 @@ together with feature importance analysis
 <div class="right-col">
 
 ![line](images/tensorboard.gif)
-<!-- .element: class="fragment fade-out" -->
+<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
 
 <ul>
     <li>Accuracy-explainability tradeoff</li>
     <li>Modularisation of elements</li>
     <li>Domain knowledge as features</li>
 </ul>
-<!-- .element: class="fragment fade-in" -->
+<!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
 </div>
 
@@ -404,13 +412,10 @@ in development and production
 ![line](images/lego.gif)
 
 </div>
-</div><!-- .element: class="fragment fade-out" -->
-
-![line](images/mlstep.png)
-<!-- .element: class="fragment fade-in" -->
+</div><!-- .element: class="fragment fade-out" data-fragment-index="1" -->
 
 ![line](images/mltemp5.png)
-<!-- .element: class="fragment fade-in" -->
+<!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
 
 
@@ -429,13 +434,13 @@ workers being displaced
 <div class="right-col">
 
 ![line](images/robot.gif)
-<!-- .element: class="fragment fade-out" -->
+<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
 
 <ul>
     <li>Reducing impact</li>
     <li>Jevons paradox</li>
     <li>Business change strategies</li>
-</ul><!-- .element: class="fragment fade-in" -->
+</ul><!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
 
 
@@ -456,13 +461,13 @@ towards accuracy and cost metrics
 <div class="right-col">
 
 ![line](images/dog.gif)
-<!-- .element: class="fragment fade-out" -->
+<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
 
 <ul>
     <li>Going beyond accuracy</li>
     <li>Domain specific metrics</li>
     <li>In development and production</li>
-</ul><!-- .element: class="fragment fade-in" -->
+</ul><!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
 </div>
 
@@ -485,13 +490,13 @@ make sure they are communicated
 <div class="right-col">
 
 ![line](images/pie.gif)
-<!-- .element: class="fragment fade-out" -->
+<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
 
 <ul>
     <li>Privacy at the right level</li>
     <li>Metadata via personal data</li>
     <li>Communicating when reasonable</li>
-</ul><!-- .element: class="fragment fade-in" -->
+</ul><!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
 </div>
 
@@ -511,14 +516,14 @@ are taken into consideration
 
 
 <img height=400px src="images/hacking.gif">
-<!-- .element: class="fragment fade-out" -->
+<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
 
 <ul>
     <li>Security breaches due to human error</li>
     <li>Adversarial attacks</li>
     <li>Social engineering new processes</li>
 </ul>
-<!-- .element: class="fragment fade-in" -->
+<!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
 </div>
 

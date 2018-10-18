@@ -291,9 +291,3 @@ img[alt="classification_small"] {
     font-size: 20px !important;
 }
 
-.fragment.visible:not(.current-fragment) {
-    display: none !important;
-    height:0px;
-    line-height: 0px;
-    font-size: 0px;
-}
